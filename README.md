@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)
+![MasterHead](https://cdn.intuji.com/2022/04/DevOps-Role-Engineer-scaled-1.jpeg)
 <h1 align="center">Hi 👋, I'm Saubhaggya Srivastava</h1>
 <h3 align="center">An Aspiring Software Developer with a Passion for Building Scalable and User-Centric Solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
